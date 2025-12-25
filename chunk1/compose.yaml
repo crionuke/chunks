@@ -1,0 +1,14 @@
+name: chunk1
+
+services:
+  grafana:
+    image: "grafana/otel-lgtm:latest"
+    container_name: "grafana"
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+      - "4317:4317"
+      - "4318:4318"
+    volumes:
+      - ./grafana/dashboards/chunk1.json:/otel-lgtm/chunk1.json:ro
+      - ./grafana/provisioning/dashboards.yaml:/otel-lgtm/grafana/conf/provisioning/dashboards/chunk1-dashboards.yaml:ro

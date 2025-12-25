@@ -1,4 +1,4 @@
-# chunk #0
+# Chunk #0
 
 Chunks are atomic records of decisions I already paid for.
 
@@ -8,3 +8,7 @@ available at the moment of the decision.
 Some chunks include code. Some only mark a boundary or a constraint.
 
 This is a decision log, not content.
+
+# Index
+
+[chunk1](https://github.com/crionuke/chunks/blob/main/chunk1) - docker-otel-lgtm with custom dashboards 
