@@ -1,4 +1,4 @@
-chunk #1
+Record #1
 
 I tried to run docker-otel-lgtm (an all-in-one Docker image for the Grafana observability stack) with custom Grafana
 dashboards. Both ChatGPT and Claude suggested mounting configuration files to the wrong paths inside the container. As a
@@ -8,4 +8,4 @@ I found the correct locations by inspecting the container filesystem and compari
 provisioning configuration, but it took about an hour.
 
 A working compose.yaml is available in the repository:
-https://github.com/crionuke/chunks/blob/main/chunk1
+https://github.com/crionuke/chunks/blob/main/record1

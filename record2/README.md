@@ -1,4 +1,4 @@
-chunk #2
+Record #2
 
 I submitted a PR to the Apache Camel project after discovering that the Telegram component did not support voice
 messages in the incoming message API.
