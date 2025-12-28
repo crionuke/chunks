@@ -1,11 +1,10 @@
 # Record #0
 
-This is a collection of atomic records of decisions I have already paid for.
+Things I've already paid for, written down before I forget.
 
-Each record fixes a single observation or choice from real work. No retrospection. No motivation. Only the context
-available at the moment of the decision.
+One per record. No hindsight. No polish.
 
-Some records include code. Some only mark a boundary or a constraint.
+Some have code. Some just mark where I hit a wall.
 
 This is a log, not content.
 
