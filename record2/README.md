@@ -44,4 +44,4 @@ It also required adding a workaround to the build pipeline to build and install 
 Link to the PR:
 https://github.com/apache/camel/pull/20606
 
-#chunks #camel #telegram #maven
+#records #camel #telegram #maven
