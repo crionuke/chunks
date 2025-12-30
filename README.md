@@ -14,3 +14,4 @@ This is a log, not content.
 
 - [record1](https://github.com/crionuke/chunks/blob/main/record1) - docker-otel-lgtm with custom dashboards
 - [record2](https://github.com/crionuke/chunks/blob/main/record2) - voice messages support in camel-telegram 
+- [record2](https://github.com/crionuke/chunks/blob/main/record3) - multi agents on github actions 
